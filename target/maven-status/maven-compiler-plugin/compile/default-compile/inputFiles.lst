@@ -1,0 +1,15 @@
+/home/robert-dell/HelloWeb_zad4/src/main/java/pl/sdacademy/utils/EmailSender.java
+/home/robert-dell/HelloWeb_zad4/src/main/java/pl/sdacademy/servlets/GalleryServlet.java
+/home/robert-dell/HelloWeb_zad4/src/main/java/pl/sdacademy/servlets/LoginServlet.java
+/home/robert-dell/HelloWeb_zad4/src/main/java/pl/sdacademy/model/Image.java
+/home/robert-dell/HelloWeb_zad4/src/main/java/pl/sdacademy/servlets/HomeServlet.java
+/home/robert-dell/HelloWeb_zad4/src/main/java/pl/sdacademy/servlets/AddPersonServlet.java
+/home/robert-dell/HelloWeb_zad4/src/main/java/pl/sdacademy/servlets/ContactServlet.java
+/home/robert-dell/HelloWeb_zad4/src/main/java/pl/sdacademy/model/enums/Sex.java
+/home/robert-dell/HelloWeb_zad4/src/main/java/pl/sdacademy/servlets/AboutServlet.java
+/home/robert-dell/HelloWeb_zad4/src/main/java/pl/sdacademy/servlets/ShowPersonsServlet.java
+/home/robert-dell/HelloWeb_zad4/src/main/java/pl/sdacademy/servlets/InstagramServlet.java
+/home/robert-dell/HelloWeb_zad4/src/main/java/pl/sdacademy/model/Person.java
+/home/robert-dell/HelloWeb_zad4/src/main/java/pl/sdacademy/model/enums/GalleryDisplayType.java
+/home/robert-dell/HelloWeb_zad4/src/main/java/pl/sdacademy/model/Gallery.java
+/home/robert-dell/HelloWeb_zad4/src/main/java/pl/sdacademy/utils/CheckCookies.java

@@ -1,0 +1,15 @@
+pl/sdacademy/servlets/LoginServlet.class
+pl/sdacademy/utils/EmailSender.class
+pl/sdacademy/model/Image.class
+pl/sdacademy/model/enums/Sex.class
+pl/sdacademy/servlets/InstagramServlet.class
+pl/sdacademy/servlets/HomeServlet.class
+pl/sdacademy/model/Person.class
+pl/sdacademy/servlets/AddPersonServlet.class
+pl/sdacademy/servlets/ShowPersonsServlet.class
+pl/sdacademy/servlets/GalleryServlet.class
+pl/sdacademy/servlets/AboutServlet.class
+pl/sdacademy/model/Gallery.class
+pl/sdacademy/utils/CheckCookies.class
+pl/sdacademy/model/enums/GalleryDisplayType.class
+pl/sdacademy/servlets/ContactServlet.class
